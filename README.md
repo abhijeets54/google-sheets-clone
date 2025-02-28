@@ -8,7 +8,7 @@ This project is a Google Sheets clone built with Next.js. It aims to replicate t
 To get started with the project, clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/abhijeets54/google-sheets-clone.git)
 cd google-sheets-clone
 npm install
 ```
